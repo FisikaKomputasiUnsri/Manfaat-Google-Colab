@@ -1,0 +1,6 @@
+Google Colab menawarkan banyak manfaat, diantaranya:
+•	Built in machine learning yang lengkap
+•	Menjalankan kode Python Berbasis cloud 
+•	Mempermudah kolaborasi tim
+•	Fleksibel
+•	Fitur TPU dan GPU gratis
